@@ -1,6 +1,6 @@
 # Terms of Service (TOS)
 For the Lunar Realm Bot  
-Last Updated: December 2025
+Last Updated: December 1 2025
 
 ---
 
